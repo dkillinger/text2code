@@ -1,4 +1,4 @@
-# Text2Code
+# Text2Game
 ## Introduction
 A basic python program utilizing regex that transforms screenplays into Ren'Py game code to promote a better development workflow.
 
